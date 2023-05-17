@@ -1,0 +1,17 @@
+.brand-bar-blue {
+  background: rgb(53,170,170);
+  min-height: 24px;
+}
+
+.brand-bar-green {
+  background: RGB(3 35 72);
+  min-height: 10px;
+}
+
+.brand-logo {
+  height: 35px;
+}
+
+.monospace {
+  font-family: monospace;
+}
